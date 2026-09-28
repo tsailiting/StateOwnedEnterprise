@@ -1,0 +1,383 @@
+{
+  "year": 113,
+  "category": "人資",
+  "subject": "企業管理",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "stem": "學者卡羅(Carroll)於1991年將企業社會責任分成4類，下列何者非屬之？",
+      "options": {
+        "A": "倫理責任",
+        "B": "法律責任",
+        "C": "社會責任",
+        "D": "慈善責任"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 2,
+      "stem": "資訊流通強調指揮鏈傳遞，溝通只有上行和下行兩種，下列何者係屬嚴守直線職權且不偏離的溝通方式？",
+      "options": {
+        "A": "Y字型",
+        "B": "鏈狀型",
+        "C": "輪狀型",
+        "D": "環狀型"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 3,
+      "stem": "有關交易型領導之敘述，下列何者正確？",
+      "options": {
+        "A": "是一種魅力型領導",
+        "B": "專注於對個別員工的關心與需要",
+        "C": "領導者藉由釐清角色與任務需求，激勵部屬達到預設目標",
+        "D": "基於「對人的關心」與「對生產的關心」兩大部分"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 4,
+      "stem": "下列何者為平衡計分卡的內容？",
+      "options": {
+        "A": "財務、顧客、外部流程、學習與成長",
+        "B": "業務、顧客、內部流程、學習與成長",
+        "C": "管理、財務、顧客、學習與成長",
+        "D": "財務、顧客、內部流程、學習與成長"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 5,
+      "stem": "執行倫理決策的內容包含：①倫理落實與應用 ②倫理反思與決策 ③倫理分析與評估 ④倫理強度的認知與定義；其決策實施順序應為下列何者？",
+      "options": {
+        "A": "①②③④",
+        "B": "④③②①",
+        "C": "④②①③",
+        "D": "④③①②"
+      },
+      "correctOptions": [
+        "B",
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 6,
+      "stem": "下列何種因素不會影響管理之控制幅度？",
+      "options": {
+        "A": "任務相似性",
+        "B": "程序標準化",
+        "C": "組織所在處",
+        "D": "管理風格"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 7,
+      "stem": "有關衝突處理之觀點，認為衝突是一種無可避免的現象，係指衝突處理的何種觀點？",
+      "options": {
+        "A": "人群觀點",
+        "B": "互動觀點",
+        "C": "傳統觀點",
+        "D": "實質觀點"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 8,
+      "stem": "有關學者黎溫(Kurt Lewin)的組織變革模式中，認為成功的變革需要經歷哪些步驟？",
+      "options": {
+        "A": "驅離、滯留、增強",
+        "B": "界定需求、變革實施、確定抗拒來源",
+        "C": "威脅、實施變革、發展",
+        "D": "解凍、實施變革、再凍"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 9,
+      "stem": "低度專業化、低度正式化、高度分權，且具有彈性的組織型態，屬於下列何種組織？",
+      "options": {
+        "A": "機械式組織",
+        "B": "有機式組織",
+        "C": "科層組織",
+        "D": "策略式組織"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 10,
+      "stem": "下列何者非創造力4P的重要核心？",
+      "options": {
+        "A": "自我超越",
+        "B": "思考歷程",
+        "C": "產品",
+        "D": "環境"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 11,
+      "stem": "有關管理者與領導者之差異，下列敘述何者有誤？",
+      "options": {
+        "A": "管理者更重視對內的組織活動",
+        "B": "領導者需要正式的任命",
+        "C": "並非所有的領導者都是管理者",
+        "D": "管理者也是一種領導者"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 12,
+      "stem": "有關管理思潮之敘述，下列何者有誤？",
+      "options": {
+        "A": "霍桑實驗開啟人際關係的研究",
+        "B": "官僚式組織仍適用於現今社會",
+        "C": "費堯(Fayol)的管理14點原則包含不應過度專業化",
+        "D": "管理科學又稱為作業研究學派"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 13,
+      "stem": "有關工作特性模型(Job Characteristics Model)，下列何者對於激勵員工是最重要的？",
+      "options": {
+        "A": "如何對待員工",
+        "B": "如何設計工作",
+        "C": "平等對待所有人",
+        "D": "設定工作目標"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 14,
+      "stem": "下列敘述何者屬管理功能中的「控制」？",
+      "options": {
+        "A": "好吃食品加工廠決定明年度進軍北歐市場",
+        "B": "幸福企業人資長發現公司傳出裁員謠言，決定向員工澄清並激勵士氣",
+        "C": "高級餐廳發現今年展店速度太快但市場反應差，決定調整明年度計畫",
+        "D": "超群公司晉升小陳為研發部門經理，並著手開發新產品"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 15,
+      "stem": "下列何種情境可以增加銷售團隊之凝聚力？",
+      "options": {
+        "A": "擴大銷售團隊的規模，增加30位團隊成員至原團隊",
+        "B": "鼓勵銷售團隊內的個別成員之間互相競爭業績",
+        "C": "由團隊內的銷售冠軍擔任領導者，指揮一切銷售活動",
+        "D": "建立公開競賽制度，讓銷售團隊與公司其他的銷售團隊互相競爭"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 16,
+      "stem": "下列何者為群體決策的缺點？",
+      "options": {
+        "A": "增加解決方案的接受度和合理度",
+        "B": "耗費較多的決策時間",
+        "C": "有多元觀點而降低決策品質",
+        "D": "取得較少的資訊"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 17,
+      "stem": "有關管理功能中的「規劃」，下列敘述何者有誤？",
+      "options": {
+        "A": "規劃可以減少資源的重複配置或浪費",
+        "B": "規劃可以為組織提供未來發展方向",
+        "C": "規劃可以降低組織變革所造成的衝擊",
+        "D": "規劃可以有效阻止環境發生改變"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 18,
+      "stem": "當組織成員皆深信組織文化內含的價值觀，並遵循一致的目標，不僅向心力強，凝聚力高，也願意對組織文化做出承諾，展現一致的行為，屬於下列何種文化？",
+      "options": {
+        "A": "強勢文化",
+        "B": "創業文化",
+        "C": "宗族文化",
+        "D": "塑造文化"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 19,
+      "stem": "在競爭激烈的全球動態環境中，組織必須將創新變成常態，以維持在產業中的競爭優勢。有關創新與創業之敘述，下列何者正確？",
+      "options": {
+        "A": "管理創新是指在管理理論上的改變",
+        "B": "破壞式創新是指運用科技為顧客提供性能比更好的新產品或新服務，往往具有蠶食整個市場的破壞力",
+        "C": "鼓勵員工進行內部創業的主要原因是減少成本、降低風險",
+        "D": "創業精神只存在於中小型企業，不可能發生在大型企業中"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 20,
+      "stem": "當某組織分析其勞動力供應情形時，該組織正在研究下列哪種環境？",
+      "options": {
+        "A": "監管環境",
+        "B": "內部環境",
+        "C": "外部環境",
+        "D": "經濟環境"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 21,
+      "stem": "有關企業外在環境之敘述，下列何者有誤？",
+      "options": {
+        "A": "高齡人口增加、人工智慧發展及社會主流價值觀改變，皆為企業面臨之一般環境要素",
+        "B": "企業若有效預測環境波動和趨勢，能大幅減少所面臨的環境不確定性",
+        "C": "區域經濟整合是全球環境的重要趨勢，例如台灣是東南亞國家協會的成員之一",
+        "D": "任務環境通常包含競爭者、顧客、供應商、策略夥伴及監管者"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 22,
+      "stem": "有關團隊發展之階段中，定義團隊的結構與領導屬於下列何種階段？",
+      "options": {
+        "A": "標準化",
+        "B": "腦力激盪",
+        "C": "操作",
+        "D": "成型"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 23,
+      "stem": "有關壓力之敘述，下列何者有誤？",
+      "options": {
+        "A": "高溫的工作場所，可以減輕員工任務需求的壓力感受",
+        "B": "無論是角色衝突、角色過載或角色模糊皆可能為員工帶來壓力",
+        "C": "辦公室主管的嚴密監視和即時進度掌控是員工的工作壓力之一",
+        "D": "處理壓力的關鍵認知是壓力不能從員工的生活中完全消除"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 24,
+      "stem": "當員工認同自己的工作、積極參與工作相關之活動，並視工作績效為成就其自我價值的程度，該員工之行為可稱為下列何種現象？",
+      "options": {
+        "A": "工作投入",
+        "B": "組織公民行為",
+        "C": "自我監控",
+        "D": "工作滿意度"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 25,
+      "stem": "有關人力資源管理流程，下列何者可識別和選擇具能力之員工？",
+      "options": {
+        "A": "人員指導與教育訓練",
+        "B": "人力資源規劃與招聘",
+        "C": "薪資與福利保障",
+        "D": "規劃與績效管理"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    }
+  ]
+}
