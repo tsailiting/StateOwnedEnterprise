@@ -1,0 +1,15 @@
+{
+  "year": 111,
+  "category": "人資",
+  "examName": "經濟部所屬事業機構111年新進職員甄試",
+  "subjects": [
+    {
+      "name": "企業管理",
+      "sortOrder": 1
+    },
+    {
+      "name": "法學緒論",
+      "sortOrder": 2
+    }
+  ]
+}

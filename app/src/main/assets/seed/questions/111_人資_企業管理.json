@@ -1,0 +1,382 @@
+{
+  "year": 111,
+  "category": "人資",
+  "subject": "企業管理",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "stem": "有關組織公民行為之敘述，下列何者正確？",
+      "options": {
+        "A": "對公司淨利有直接貢獻的正面行為",
+        "B": "對公司聲譽有直接貢獻的正面行為",
+        "C": "減損且無益於組織績效的負面行為",
+        "D": "對公司淨利有間接貢獻的正面行為"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 2,
+      "stem": "有關商品和服務分類之敘述，下列何者有誤？",
+      "options": {
+        "A": "都可依買家的性質分類為B2B和B2C",
+        "B": "商品多是有形的，服務多是無形的",
+        "C": "商品比服務更涉及消費者參與流程",
+        "D": "商品可儲存而有存貨，服務多無法儲存"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 3,
+      "stem": "有關領導理論之敘述，下列何者有誤？",
+      "options": {
+        "A": "特質理論為最早出現之觀點",
+        "B": "費德勒權變模式在對領導者的特質恆常性上，持有與特質理論同樣之觀點",
+        "C": "追隨者準備程度需同步考量追隨者之能力與意願",
+        "D": "行為學派繼權變模式後出現，認為人的行為可以學習，但必須考量情境優先"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 4,
+      "stem": "「航空公司監控飛行，直接和機組人員溝通飛行狀況」屬於下列何種控制？",
+      "options": {
+        "A": "事前控制",
+        "B": "事中控制",
+        "C": "事後控制",
+        "D": "自主控制"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 5,
+      "stem": "有關組織變革之敘述，下列何者有誤？",
+      "options": {
+        "A": "組織變革意指組織結構、技術或人員的改變或調適",
+        "B": "變革程序的三步驟為結凍至解凍再至改變",
+        "C": "人們會抗拒組織變革的原因包括不確定性、習慣、害怕個人損失等",
+        "D": "可藉由員工參與提升支持度"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 6,
+      "stem": "激勵並鼓舞跟隨者以促使其達到超越平常水準的績效，屬於下列何種領導方式？",
+      "options": {
+        "A": "轉換型領導",
+        "B": "願景型領導",
+        "C": "魅力型領導",
+        "D": "交易型領導"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 7,
+      "stem": "有關控制的管理功能，下列何者有誤？",
+      "options": {
+        "A": "控制包括將實際績效與績效標準做比較",
+        "B": "控制包括採取管理行動來改正偏離或不當的標準",
+        "C": "怎麼衡量比衡量什麼更重要",
+        "D": "事後控制常採用財務績效做為衡量"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 8,
+      "stem": "筆電大廠決定併購電源供應器製造商，屬採行下列何種總體策略？",
+      "options": {
+        "A": "水平整合",
+        "B": "向後整合",
+        "C": "向前整合",
+        "D": "穩定策略"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 9,
+      "stem": "有關激勵理論之敘述，下列何者正確？",
+      "options": {
+        "A": "古典激勵理論認為員工只會受到金錢的激勵",
+        "B": "人性天生是追求成長、願意承擔責任屬於人力資源模型中的X理論",
+        "C": "兩因子理論主張滿足的相反是不滿足，並認為滿足多與內在因子相關，不滿足多與外在因子相關",
+        "D": "期望理論把焦點放在社會比較上，意即人們會參照其他人的待遇，來評估組織對自己的待遇"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 10,
+      "stem": "策略規劃包括①形成策略②確認組織當前目標與策略③分析組織資源④界定優勢與劣勢，關於策略規劃之程序，下列何者正確？",
+      "options": {
+        "A": "②③④①",
+        "B": "①②③④",
+        "C": "②④③①",
+        "D": "③④①②"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 11,
+      "stem": "Lisa在一家大型企業的人資部門工作，她很少在團隊會議裡發表意見，因為她曾看見其他成員在會議後對自己指指點點。然而團隊其他成員並無惡意，他們僅是慣於在團隊中互相監督並糾正對方的錯誤。根據上述資訊，Lisa的團隊缺乏何種要素？",
+      "options": {
+        "A": "足夠的資源(Adequate Resources)",
+        "B": "信任氛圍(Climate of Trust)",
+        "C": "團隊架構(Team Structure)",
+        "D": "績效評估(Performance Evaluations)"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 12,
+      "stem": "下列何者為衝突的類型？",
+      "options": {
+        "A": "任務衝突、關係衝突、過程衝突",
+        "B": "事務衝突、關係衝突、過程衝突",
+        "C": "任務衝突、團隊衝突、過程衝突",
+        "D": "任務衝突、工作衝突、過程衝突"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 13,
+      "stem": "早班工讀生與晚班工讀生在交接、換班時的溝通，可稱為下列何種溝通？",
+      "options": {
+        "A": "垂直",
+        "B": "向上",
+        "C": "向下",
+        "D": "水平"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 14,
+      "stem": "有關企業競爭優勢(Competitive Advantage)之敘述，係指組織擁有下列何種能力？",
+      "options": {
+        "A": "特殊但可被取代的資源或能力",
+        "B": "為顧客創造價值的能力",
+        "C": "一般但可被取代的資源或能力",
+        "D": "一般但無法被取代的資源或能力"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 15,
+      "stem": "依據 Maslow 的需求階層理論與 ERG 理論，員工工作動機若來自穩定被僱用的工作環境，屬於下列哪個階層？",
+      "options": {
+        "A": "自我實現需求與Growth(成長需要)",
+        "B": "自我實現需求與Existence(生存需要)",
+        "C": "安全需求與Existence(生存需要)",
+        "D": "安全需求與Growth(成長需要)"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 16,
+      "stem": "在市場競爭過程中，市場共同性高、資源相似性低，是下列何者的特徵？",
+      "options": {
+        "A": "替代者",
+        "B": "直接競爭者",
+        "C": "非競爭者",
+        "D": "潛在競爭者"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 17,
+      "stem": "若有位員工遲到，而且其他所有走相同路線上班的員工也都遲到，則人資主管可將該員工之遲到行為視為下列何者？",
+      "options": {
+        "A": "自利偏差",
+        "B": "月暈效應",
+        "C": "歸因理論內在歸因",
+        "D": "歸因理論外在歸因"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 18,
+      "stem": "依據路徑－目標理論，在指導型領導中哪種領導特質，會協助員工達成最高的績效？",
+      "options": {
+        "A": "設定具挑戰性的目標，並希望員工能有最高水準的表現",
+        "B": "明確表示完工期限，並給予完成任務的協助",
+        "C": "友善並關心員工需求",
+        "D": "在決策前和群體成員磋商，並採用他們的建議"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 19,
+      "stem": "決策者在資訊處理過程中，往往選擇的是滿意的決策，而非最佳的決策。以上敘述符合下列何種決策？",
+      "options": {
+        "A": "綜合掃描決策模式",
+        "B": "預設決策模式",
+        "C": "有限理性決策模式",
+        "D": "漸進決策模式"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 20,
+      "stem": "有關綠色管理之敘述，下列何者有誤？",
+      "options": {
+        "A": "認為透過技術創新可以抵銷環保費用的支出",
+        "B": "是企業責無旁貸的核心義務",
+        "C": "管理者了解且考慮該企業以及其作為對自然環境造成的影響",
+        "D": "核心主張為企業應綠化公司的環境"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 21,
+      "stem": "人力資源策略應與組織策略相配適，若D集團採取成本領導策略作為新一年之組織策略，則管理者應訂定何種人力資源策略？",
+      "options": {
+        "A": "效率生產",
+        "B": "以績效評估作為控制機制",
+        "C": "效用型策略",
+        "D": "市場導向策略"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 22,
+      "stem": "有關企業管理矩陣之敘述，下列何者正確？\n①企業管理矩陣的管理功能包含規劃、組織、領導、控制\n②企業管理矩陣的管理功能包含規劃、組織、領導、實踐\n③企業管理矩陣中的企業功能為優勢功能、劣勢功能、機會功能、威脅功能\n④企業管理矩陣中的企業功能為生產、行銷、人資、研究與發展、財務、資訊\n⑤企業管理矩陣的管理功能包含計畫、執行、查核、行動",
+      "options": {
+        "A": "①③",
+        "B": "②④",
+        "C": "①④",
+        "D": "③⑤"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 23,
+      "stem": "在決策過程中，決策者常受到框架效應影響而導致決策偏誤。下列何者有誤？",
+      "options": {
+        "A": "刻意尋求與自身經驗吻合的資訊，而對他們看法不同的資訊抱持懷疑與批判的態度，稱為自我鞏固偏差",
+        "B": "局限於某些看法而排除其他意見，扭曲自己所看到的事物，並創造出錯誤的參考資訊，稱為選擇性認知偏差",
+        "C": "以一事件與另一事件相似的程度，評斷該事件應有的處理方式，而實際上兩事件的時空背景與處理方式可能完全不同，稱為代表事件偏差",
+        "D": "不想有太多投入，卻希望能有立即效果，稱為立即滿足偏差"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 24,
+      "stem": "有些公司會要求員工星期六加班，管理者意識到員工通常不喜歡在星期六工作，如果員工在5個工作日內達到績效水平，經理可以提議在星期五結束工作，此為下列何種增強理論類型？",
+      "options": {
+        "A": "消滅",
+        "B": "懲罰",
+        "C": "負面強化",
+        "D": "正面強化"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 25,
+      "stem": "企業在進行組織結構設計時，會依照企業的運作與發展採用不同的方式進行部門化。美國J集團計畫分拆為4個部門，分別為消費者保健品部門、醫療藥品部門、醫療器材部門及運動裝備部門，上述例子較符合下列何種部門化類型？",
+      "options": {
+        "A": "產品別部門化",
+        "B": "程序別部門化",
+        "C": "顧客別部門化",
+        "D": "職能別部門化"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    }
+  ]
+}

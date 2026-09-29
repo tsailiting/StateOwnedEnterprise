@@ -1,0 +1,382 @@
+{
+  "year": 112,
+  "category": "人資",
+  "subject": "企業管理",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "stem": "關於企業職能之敘述，下列何者有誤？",
+      "options": {
+        "A": "財務職能於企業中多居於輔助的位置，稱之為幕僚職能",
+        "B": "企業內人力資源的職能包含人力資源招募、訓練和發展等任務",
+        "C": "企業職能涵蓋直線職能和幕僚職能",
+        "D": "企業內人力資源之職能直接與企業之利潤和收入相關"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 2,
+      "stem": "關於企業社會責任之敘述，下列何者正確？",
+      "options": {
+        "A": "依據效率的觀點，企業應在商言商，企業承擔社會責任恐會違反企業所有者之利潤極大化原則",
+        "B": "依據社會經濟的觀點，股東是唯一支撐企業存在的因素",
+        "C": "依據社會經濟的觀點，企業無法藉由積極投入企業社會責任，進而期待政府對於企業較少的規範和干預",
+        "D": "ESG為企業近年來在經營上的重要課題，其中E指環境(Environment)、S指社會(Social)、G指公司團體(Group)"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 3,
+      "stem": "企業內部核定並監控企業整體營運及策略方向屬於下列何者之決策權？",
+      "options": {
+        "A": "專業幕僚",
+        "B": "董事會",
+        "C": "高階主管",
+        "D": "中階主管"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 4,
+      "stem": "企業經常運用PEST架構針對總體環境進行分析，其中P係指下列何種環境分析？",
+      "options": {
+        "A": "社會環境",
+        "B": "汙染環境",
+        "C": "政治法律環境",
+        "D": "科技建設環境"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 5,
+      "stem": "焦點團體法是企業經常用來提升決策品質的方式，關於此法之敘述，下列何者有誤？",
+      "options": {
+        "A": "建議邀請20人以上之團體進行討論",
+        "B": "會議主持人的溝通及導引技能很重要",
+        "C": "焦點團體之座談討論時間以1.5~2小時為原則",
+        "D": "焦點團體法可透過線上進行座談討論"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 6,
+      "stem": "企業進行策略管理時常運用分析工具，下列敘述何者有誤？",
+      "options": {
+        "A": "五力分析是用來分析產業環境",
+        "B": "SWOT分析不僅審視企業外部環境機會與威脅，並評估企業內部優劣勢",
+        "C": "價值鏈(Value chain)的分析中，行銷及銷售活動屬於支援性活動",
+        "D": "BCG矩陣分析中，一個事業單位的產業成長率和相對市場佔有率皆高時，被歸類為明星事業"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 7,
+      "stem": "關於各管理學派之敘述，下列何者有誤？",
+      "options": {
+        "A": "古典學派著重於作業的合理化與員工效率的提升",
+        "B": "計量學派的基本內涵在於利用質性方法及研究來作出更好的決策",
+        "C": "全面品質管理可視為一種管理哲學，強調企業透過不斷改進，來回應顧客的需求與期望",
+        "D": "馬克思·韋伯(Max Weber)所描述的理想官僚體制強調層級明確"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 8,
+      "stem": "關於組織結構設計之敘述，下列何者有誤？",
+      "options": {
+        "A": "面對環境複雜且有較高不確定性時，組織決策在結構設計上偏向地方分權",
+        "B": "控制幅度指組織內管理者可以有效地指揮員工的數目",
+        "C": "指揮權統一原則指出每一位員工只應對一位管理者負責",
+        "D": "相同的條件下，組織結構設計的控制幅度愈小，其組織的效率愈高"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 9,
+      "stem": "關於機械式組織及有機式組織之敘述，下列何者正確？\n①機械式組織是一種嚴謹控制的組織設計②在動態且複雜的環境中，愈適合採用機械式組織\n③追求創新的公司較適合採用機械式組織④有機式組織的特徵包含較大的控制幅度以及自由流通之資訊",
+      "options": {
+        "A": "①②",
+        "B": "①③",
+        "C": "①④",
+        "D": "②③"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 10,
+      "stem": "關於員工激勵相關理論之敘述，下列何者有誤？",
+      "options": {
+        "A": "依據學者Herzberg所提出的雙因子理論，認同感屬於激勵因子",
+        "B": "學者McClelland的三需求理論提出人們工作的主要動機來自於成就需求、權力需求及歸屬需求",
+        "C": "依據學者Herzberg所提出的雙因子理論，薪資屬於保健因子",
+        "D": "依據學者McGregor所提出的X與Y理論，X理論代表正面的觀點，假設員工喜歡工作、接受責任，並且自動自發"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 11,
+      "stem": "一位部門主管想要藉由指派某人扮演黑臉角色，於團體討論提案過程中提出反對意見，期望創造出更深入及細膩的團隊思考，此法屬於下列何者？",
+      "options": {
+        "A": "折衷法",
+        "B": "焦點團體法",
+        "C": "魔鬼代言法",
+        "D": "權變法"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 12,
+      "stem": "美秀阿姨住院治療疾病時，注意到醫院每個員工都很注意「誰該向誰報告」，此屬於組織行為領域中何種管理思維？",
+      "options": {
+        "A": "目標統一",
+        "B": "指揮鏈",
+        "C": "控制幅度",
+        "D": "部門化"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 13,
+      "stem": "關於霍桑效應(Hawthorne Effect)在管理上最重要的發現，下列敘述何者正確？",
+      "options": {
+        "A": "強調增加酬勞對工作績效的影響",
+        "B": "揭示員工的心理需求及激勵對工作績效的影響",
+        "C": "員工的歸屬感及責任感，未必能提高組織的績效和創造力",
+        "D": "標準化工作流程能增加工作績效"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 14,
+      "stem": "關於平衡計分卡管理意涵之敘述，下列何者有誤？",
+      "options": {
+        "A": "平衡計分卡只關注財務指標",
+        "B": "平衡計分卡也重視非財務指標，包括客戶、內部流程及學習與成長等指標",
+        "C": "平衡計分卡將組織的戰略目標轉化為具體的指標和行動計畫，並確保各個層級和部門的目標與組織整體戰略保持一致",
+        "D": "鼓勵組織不斷學習、創新和改進，以提高組織的競爭力及適應能力"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 15,
+      "stem": "NBA球隊在過去幾年陸續將數據分析方式導入球賽中。舉凡球路分析、球員習性等，將各種數據運用在複雜卻又詳細的系統分析中，只要是能贏球的方式或戰術全部都可以用。上述理論屬於下列何種管理學派？",
+      "options": {
+        "A": "管理科學學派",
+        "B": "系統學派",
+        "C": "科學管理學派",
+        "D": "組織行為學派"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 16,
+      "stem": "亨利·明茨伯格(Henry Mintzberg)將管理者的角色分為10種，下列敘述何者最接近明茨伯格所謂的「領導者(Leader)」？",
+      "options": {
+        "A": "企業的精神領袖，是組織的象徵，常須主持文件簽署、迎接來賓等活動。有些組織的管理者甚至比組織本身更具有公眾知名度",
+        "B": "當組織遭遇瓶頸時，這個角色必須主導變革計畫、擬定策略、監督執行，以解決問題，確保組織獲得更好的成績",
+        "C": "為了正確決策，完成目標，這個角色必須蒐集大量與組織或產業相關資訊，也必須監督團隊的生產力及福祉",
+        "D": "這個角色必須訂定組織的目標，下達指令，並且掌握進度，以順利達成績效，同時也必須激勵和指導下屬，擔任教練的工作"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 17,
+      "stem": "決策者對自己有積極的評價，認為成功發生在自己身上的機率高於別人，此為下列何種決策中常見的認知偏誤？",
+      "options": {
+        "A": "不理性的擴大承諾(Escalation of Commitment)",
+        "B": "過分自信的判斷(Overconfidence Effect)",
+        "C": "贏家的詛咒(Winner’s Curse)",
+        "D": "看待問題時採取有限的觀點和框架(Limited Perspective and the Framing of Problem)"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 18,
+      "stem": "關於費雷德·費德勒(Fred E. Fiedler)權變領導理論中「任務結構」之敘述，下列何者正確？",
+      "options": {
+        "A": "管理者對自己行為負責的能力與意願",
+        "B": "集體工作任務的例行性程度及可預測性",
+        "C": "管理者本身所具有的權力",
+        "D": "部屬對領導者信任與忠誠的程度"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 19,
+      "stem": "Meta於2023年所推出之全新社群平台「Threads」及「Instagram」可以完全地連動。意即可直接透過Instagram登入Threads App，此屬於下列何種安索夫矩陣(Ansoff Matrix)成長策略？",
+      "options": {
+        "A": "市場滲透(Market Penetration)",
+        "B": "市場開發(Market Development)",
+        "C": "產品開發(Product Development)",
+        "D": "多角化(Diversification)"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 20,
+      "stem": "鼓勵企業領袖持續維持最低衝突水準，此為下列何種衝突觀點之論述？",
+      "options": {
+        "A": "互動觀點(Interactionist View)",
+        "B": "人群關係觀點(Human Relations View)",
+        "C": "傳統觀點(Traditional View)",
+        "D": "功能觀點(Functional View)"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 21,
+      "stem": "企業依據活動的專業性分為生產、財務、行銷、人事、研發部門，此為下列何種組織結構型態？",
+      "options": {
+        "A": "簡單式結構",
+        "B": "功能式結構",
+        "C": "事業部結構",
+        "D": "矩陣式結構"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 22,
+      "stem": "關於組織結構之敘述，下列何者有誤？",
+      "options": {
+        "A": "矩陣式組織易有指揮不統一、權責混淆的問題",
+        "B": "制式化程度較低的企業，工作任務較無結構，員工對該如何完成工作有較大的自由",
+        "C": "若環境越穩定時，組織結構適合採用機械式組織",
+        "D": "組織結構越趨向扁平化時，應減少授權的程度"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 23,
+      "stem": "管理學者 George T. Doran 提出目標管理的 SMART 原則，不包括下列何者？",
+      "options": {
+        "A": "明確的(Specific)",
+        "B": "可衡量的(Measurable)",
+        "C": "可達成的(Achievable)",
+        "D": "可更換的(Reversible)"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 24,
+      "stem": "「無論身處哪個產業，管理者都必須正視未來不斷進化的AI技術與嶄新的商業應用轉變」。關於此敘述之決策者屬於下列何種類型？",
+      "options": {
+        "A": "問題尋求者",
+        "B": "問題製造者",
+        "C": "問題解決者",
+        "D": "問題趨避者"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 25,
+      "stem": "管理者面對低度結構化問題(Ill-Structured Problem)所作的決策屬於何種類型？",
+      "options": {
+        "A": "程序決策(Programmed Decision)",
+        "B": "非程序決策(Non-Programmed Decision)",
+        "C": "最佳決策(Maximizing Decision)",
+        "D": "便利直覺(Availability Heuristics)"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    }
+  ]
+}

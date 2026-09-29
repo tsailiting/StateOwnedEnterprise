@@ -1,0 +1,382 @@
+{
+  "year": 110,
+  "category": "人資",
+  "subject": "企業管理",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "stem": "個人對於獎懲比重上的公平與否，稱之為下列何者？",
+      "options": {
+        "A": "程序正義",
+        "B": "認知正義",
+        "C": "分配正義",
+        "D": "絕對正義"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 2,
+      "stem": "下列何者屬矩陣式組織的特徵？",
+      "options": {
+        "A": "消除組織惰性",
+        "B": "違反統一指導原則",
+        "C": "違反工作專業性",
+        "D": "消除指揮鏈"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 3,
+      "stem": "溝通流程中的最後一個環節是指下列何者？",
+      "options": {
+        "A": "編碼",
+        "B": "解碼",
+        "C": "選擇",
+        "D": "回饋"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 4,
+      "stem": "組織中衝突的來源，不包括下列何者？",
+      "options": {
+        "A": "任務獨立",
+        "B": "職權相互重疊",
+        "C": "資源稀少",
+        "D": "地位不一致"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 5,
+      "stem": "有關Hofstede描述國家文化的模型，下列敘述何者有誤？",
+      "options": {
+        "A": "歐美文化較為個人主義，權力距離短",
+        "B": "亞洲國家文化較為集體主義，不確定性規避高",
+        "C": "亞洲國家文化強調成就導向，權力距離長",
+        "D": "北歐國家文化強調撫慰與陰柔導向，注重生命品質，關懷弱勢"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 6,
+      "stem": "有關競爭者與任務環境的描述，下列何者有誤？",
+      "options": {
+        "A": "潛在競爭者通常存在於同一任務環境內",
+        "B": "競爭者是生產相似產品或提供相似服務的組織",
+        "C": "進入障礙是阻止潛在競爭者進入任務環境的要素",
+        "D": "進入障礙愈高，任務環境的競爭者愈少"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 7,
+      "stem": "瑞典IKEA宣布2030年將全面採用「再生塑膠」，日本豐田汽車則計畫於2035年禁售燃油車，這是將關懷人群與維護地球的理念，落實到企業永續經營的策略中，此種企業社會責任的決策邏輯稱為下列何者？",
+      "options": {
+        "A": "社會義務決策導向",
+        "B": "社會反應決策導向",
+        "C": "社會預應決策導向",
+        "D": "社會主動決策導向"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 8,
+      "stem": "有關組織環境理論的論點，下列何者有誤？",
+      "options": {
+        "A": "認為組織是在開放性系統的觀點",
+        "B": "能趨疲或熵(entropy)會出現在開放性組織",
+        "C": "外在環境會影響管理者取得與使用資源",
+        "D": "情境理論說明了管理者選擇組織結構與控制系統，取決於外在環境特徵"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 9,
+      "stem": "近年盛行的「六個標準差」，是屬於下列何種管理方式？",
+      "options": {
+        "A": "顧客關係管理",
+        "B": "供應鏈管理",
+        "C": "全面品質管理",
+        "D": "價值鏈管理"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 10,
+      "stem": "有關管理思想的演進，下列何者有誤？",
+      "options": {
+        "A": "管理科學思想強調工作專精與分工",
+        "B": "科學管理學派解決大量生產的問題",
+        "C": "霍桑研究發現工作場域的人群關係現象",
+        "D": "行政管理理論認為組織結構與控制系統對效率影響大"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 11,
+      "stem": "下列何者屬於行為控制機制？",
+      "options": {
+        "A": "作業預算",
+        "B": "社會化",
+        "C": "目標管理",
+        "D": "財務績效衡量"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 12,
+      "stem": "Fiedler的權變領導理論中，認為領導行為的效能，主要決定於下列何者？",
+      "options": {
+        "A": "領導者與部屬關係、任務結構與目標路徑結構",
+        "B": "領導者與部屬關係、任務結構與情境特徵",
+        "C": "領導者與部屬關係、任務結構與領導者能力",
+        "D": "賦權程度、部屬能力與任務結構"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 13,
+      "stem": "Mintzberg將管理者角色分成三大類，是指下列何者？",
+      "options": {
+        "A": "人際角色、政治角色與資訊角色",
+        "B": "政治角色、資訊角色與決策角色",
+        "C": "人際角色、政治角色與決策角色",
+        "D": "人際角色、資訊角色與決策角色"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 14,
+      "stem": "管理者的任務就是在不同與變動的環境之中，找出最符合情境的行動方案，這是下列何種管理觀點？",
+      "options": {
+        "A": "系統觀點",
+        "B": "權變觀點",
+        "C": "程序觀點",
+        "D": "功能觀點"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 15,
+      "stem": "有關組織文化的傳遞方式，下列何者有誤？",
+      "options": {
+        "A": "整合儀式(rites of integration)常用在學習、內化規範與價值",
+        "B": "故事與用語(stories & language)是溝通價值的重要方式，但可能有真有假",
+        "C": "組織社會化(organization socialization)對新人特別有意義",
+        "D": "創辦人的價值觀(values of the founder)型塑組織成員的工具價值與目標價值"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 16,
+      "stem": "Google於2016年12月宣布正式將其研發自動駕駛車輛的部門獨立出來，成立一間名為「Waymo」的公司，持續致力於自動駕駛技術開發，這是屬於下列何種成長策略？",
+      "options": {
+        "A": "直接擴張",
+        "B": "多角化經營",
+        "C": "企業併購",
+        "D": "垂直整合"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 17,
+      "stem": "工作專業化可提昇工作效率，但當工作專業化到某一種程度時，也會產生人性不經濟，如無聊、疲勞、壓力及缺席等。下列何者無法解決工作專業化缺點？",
+      "options": {
+        "A": "工作輪調",
+        "B": "工作擴大化",
+        "C": "工作豐富化",
+        "D": "工作部門化"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 18,
+      "stem": "小王是一個團隊的成員，他被充分的授權，甚至連績效也是由他自己考核的。請問小王最有可能是下列哪一種團隊的成員？",
+      "options": {
+        "A": "問題處理團隊",
+        "B": "功能性群體",
+        "C": "跨功能團隊",
+        "D": "自我管理團隊"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 19,
+      "stem": "下列何種組織現象不適合採取官僚式控制(bureaucratic control)？",
+      "options": {
+        "A": "以個人績效作為獎酬的基礎",
+        "B": "員工參與程度低",
+        "C": "員工具有高度的組織承諾",
+        "D": "嚴謹的階層制度"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 20,
+      "stem": "決策者傾向於延續過去的決策方向，而使決策落入無法自拔的陷阱裡，這是決策中常見的何種認知偏見？",
+      "options": {
+        "A": "贏家的詛咒 (winner’s curse)",
+        "B": "不理性的擴大承諾 (escalation of commitment)",
+        "C": "過分自信的判斷 (overconfidence effect)",
+        "D": "看待問題時採取有限的觀點或框架(limited perspective and the framing of problem)"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 21,
+      "stem": "有關管理科學的描述與應用，下列何者有誤？",
+      "options": {
+        "A": "又可稱為理論方法(theoretical approach)",
+        "B": "經濟訂購量是可用來決定最適存貨水準的一項技術",
+        "C": "線性規劃是可用來改進資源分配與決策的一項技術",
+        "D": "新產品擴散模型是可用來預測電影推出後各個時期票房的一項技術"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 22,
+      "stem": "下列何種類型的公司，在海外擴張時偏好高度標準化商品以降低成本？",
+      "options": {
+        "A": "受當地宗教規範高",
+        "B": "受限地方法規管制高",
+        "C": "受當地氣候影響高",
+        "D": "專屬廠房設備投資高"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 23,
+      "stem": "有關企業管理矩陣之敘述，下列何者正確？\n①企業管理矩陣的管理功能包含規劃、組織、領導、控制\n②企業管理矩陣的管理功能包含規劃、組織、領導、實踐\n③企業管理矩陣中的企業功能為優勢功能、劣勢功能、機會功能、威脅功能\n④企業管理矩陣中的企業功能為生產、行銷、人資、研究與發展、財務、資訊\n⑤企業管理矩陣的管理功能包含計畫、執行、查核、行動",
+      "options": {
+        "A": "①③",
+        "B": "②④",
+        "C": "①④",
+        "D": "③⑤"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 24,
+      "stem": "在決策過程中，決策者常受到框架效應影響而導致決策偏誤。下列何者有誤？",
+      "options": {
+        "A": "刻意尋求與自身經驗吻合的資訊，而對他們看法不同的資訊抱持懷疑與批判的態度，稱為自我鞏固偏差",
+        "B": "局限於某些看法而排除其他意見，扭曲自己所看到的事物，並創造出錯誤的參考資訊，稱為選擇性認知偏差",
+        "C": "以一事件與另一事件相似的程度，評斷該事件應有的處理方式，而實際上兩事件的時空背景與處理方式可能完全不同，稱為代表事件偏差",
+        "D": "不想有太多投入，卻希望能有立即效果，稱為立即滿足偏差"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 25,
+      "stem": "管理者使用例外管理(management by exception)，主要可解決下列哪一種溝通障礙？",
+      "options": {
+        "A": "組織層級",
+        "B": "組織地位",
+        "C": "資訊超載",
+        "D": "資訊模糊"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    }
+  ]
+}

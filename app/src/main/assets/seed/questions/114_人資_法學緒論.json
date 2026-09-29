@@ -1,0 +1,382 @@
+{
+  "year": 114,
+  "category": "人資",
+  "subject": "法學緒論",
+  "questions": [
+    {
+      "questionNumber": 26,
+      "stem": "甲為保護自己權利，若欲拘束他人自由或扣押他人財產，應採取下列何種作法？",
+      "options": {
+        "A": "即時通報當地警察局",
+        "B": "應向法院聲請處理",
+        "C": "應於3個月內取得該他人同意",
+        "D": "應於6個月內向國稅局申報財產"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 27,
+      "stem": "下列法令何者必須經由立法院擬定通過後施行？",
+      "options": {
+        "A": "地方稅法通則",
+        "B": "政府採購法施行細則",
+        "C": "立法院議事規則",
+        "D": "經濟部加工出口區管理處所屬各分處組織通則"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 28,
+      "stem": "依據法之起源，區別法之種類可分為下列何者？",
+      "options": {
+        "A": "成文法與不成文法",
+        "B": "一般法與特別法",
+        "C": "強行法與任意法",
+        "D": "固有法與繼受法"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 29,
+      "stem": "下列何者具有民法所規定的行為能力？",
+      "options": {
+        "A": "18歲之人",
+        "B": "受輔助宣告之人",
+        "C": "16歲已婚之女性",
+        "D": "受監護宣告之人"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 30,
+      "stem": "依民法規定，下列何者發生消滅時效中斷之效力？",
+      "options": {
+        "A": "債權人申報和解債權或破產債權後，撤回申報",
+        "B": "債務人於消滅時效完成前對債權人承認其債權",
+        "C": "債務人於消滅時效完成後為債權人提供擔保",
+        "D": "債權人對債務人請求後，6個月內未提起訴訟"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 31,
+      "stem": "關於不當得利，下列何者非屬不得請求返還之情形？",
+      "options": {
+        "A": "債務人於未到期之債務因清償而為給付者",
+        "B": "因清償債務而為給付，於給付時明知無給付之義務者",
+        "C": "給付係履行道德上之義務者",
+        "D": "契約因可歸責於付定金當事人之事由，致不能履行時"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 32,
+      "stem": "下列何者非屬現行已公布施行之勞動法規？",
+      "options": {
+        "A": "團體協約法",
+        "B": "勞動契約法",
+        "C": "勞資爭議處理法",
+        "D": "勞動事件法"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 33,
+      "stem": "勞動基準法第32條規定，雇主延長勞工之工作時間連同正常工作時間，1日不得超過12小時；延長之工作時間，1個月不得超過46小時。甲雇主為能趕工，與乙約定以2個月為期，每日工作12小時，另外以代班為名，實質加班2小時，下列何者正確？",
+      "options": {
+        "A": "此約定違反法令，無效，甲無須支付2小時代班費",
+        "B": "此約定為契約自由，有效，甲必須支付2小時代班費",
+        "C": "此約定違反法令，無效，但甲仍須支付2小時代班費",
+        "D": "此約定未違反法令，有效，代班並非延長工時工作，且甲仍需支付代班費"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 34,
+      "stem": "行政訴訟類型，不包括下列何者？",
+      "options": {
+        "A": "給付訴訟",
+        "B": "撤銷訴訟",
+        "C": "聲請政黨解散",
+        "D": "確認訴訟"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 35,
+      "stem": "法人之行為違反法律者，得因下列何者之請求，宣告解散？",
+      "options": {
+        "A": "法院",
+        "B": "檢察官",
+        "C": "司法事務官",
+        "D": "監察院"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 36,
+      "stem": "下列何者非屬刑事制裁？",
+      "options": {
+        "A": "罰金",
+        "B": "有期徒刑",
+        "C": "褫奪公權",
+        "D": "沒入"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 37,
+      "stem": "甲對於乙之作為不滿，遂於其直播線上公布乙之姓名、電話號碼、性別及教育程度，並請大家努力問候乙，乙依個人資料保護法，請求賠償。下列何者非屬個人資料保護法所列舉的個資保護範圍？",
+      "options": {
+        "A": "姓名",
+        "B": "電話號碼",
+        "C": "性別",
+        "D": "教育程度"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 38,
+      "stem": "依消費者保護法之規定，下列何者有誤？",
+      "options": {
+        "A": "未經消費者要約而對之郵寄或投遞之商品，消費者不負保管義務",
+        "B": "物品之寄送人，經消費者定相當期限通知取回而逾期未取回或無法通知者，視為拋棄其寄投之商品",
+        "C": "雖未經通知，但在寄送後逾1個月未經消費者表示承諾，而仍不取回其商品者，視為消費者接受該物品，並必須支付款項",
+        "D": "消費者得請求償還因寄送物所受之損害，及處理寄送物所支出之必要費用"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 39,
+      "stem": "行為人對於構成犯罪之事實，預見其發生而其發生並不違背其本意者，應以下列何者論之？",
+      "options": {
+        "A": "過失",
+        "B": "減輕其刑",
+        "C": "不罰",
+        "D": "故意"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 40,
+      "stem": "依中央法規標準法第21條，法規廢止之事由不包括下列何者？",
+      "options": {
+        "A": "機關裁併，有關法規無保留之必要者",
+        "B": "法規違反國際人權公約，而無繼續施行之必要者",
+        "C": "法規規定之事項已執行完畢，無繼續施行之必要者",
+        "D": "同一事項已定有新法規，並公布或發布施行者"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 41,
+      "stem": "關於民法對人格權的保護，下列敘述何者有誤？",
+      "options": {
+        "A": "人格權受侵害時，得請求法院除去其侵害",
+        "B": "有受侵害之虞時，得請求防止之",
+        "C": "債務不履行的損害賠償不包括人格權的損害",
+        "D": "不法侵害他人之人格法益而情節重大者，被害人對於非財產上之損害，得請求賠償相當之金額"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 42,
+      "stem": "甲為機關新人錄用之負責人，其與乙約定，將考題洩漏予乙，乙則支付10萬元作為酬金。乙支付甲10萬元後，始知甲給予之考題，並非實際受試之考題，乙氣憤之餘，請求甲返還，下列何者正確？",
+      "options": {
+        "A": "為此不法之目的所支出之金錢，依法不得請求返還",
+        "B": "乙僅能另要求其他考題",
+        "C": "甲為不當得利，乙得要求返還",
+        "D": "甲乙皆違法，契約有效，乙不得要求返還"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 43,
+      "stem": "甲擁有1棟房屋，其得行使何種權利禁止任何人踏進其房屋？",
+      "options": {
+        "A": "抵押權",
+        "B": "地上權",
+        "C": "所有權",
+        "D": "訴訟權"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 44,
+      "stem": "關於勞動契約，下列敘述何者正確？",
+      "options": {
+        "A": "勞動契約即定期契約",
+        "B": "雇主不依勞動契約給付工作報酬者，勞工經預告後得終止契約",
+        "C": "指約定勞雇關係而具有從屬性之契約",
+        "D": "任何人得介入他人之勞動契約，維護公共利益"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 45,
+      "stem": "下列契約何者為無償契約？",
+      "options": {
+        "A": "使用借貸契約",
+        "B": "消費借貸契約",
+        "C": "旅遊契約",
+        "D": "居間契約"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 46,
+      "stem": "甲今年18歲，以父母給予之零用錢，向機車行購買1台價值新台幣10萬元之機車，試問該買賣契約之效力為下列何者？",
+      "options": {
+        "A": "有效",
+        "B": "得撤銷",
+        "C": "效力未定",
+        "D": "無效"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 47,
+      "stem": "甲擬由乙公司離職，計算離職金時，得知近10年原本約定代扣的員工儲值金，雖有從薪資扣款，但並未匯入儲值金帳戶，共積欠10萬元，乙拒絕給付該款項，並稱已逾請求時效，請問該積欠款時效應屬下列何者？",
+      "options": {
+        "A": "1年",
+        "B": "2年",
+        "C": "5年",
+        "D": "15年"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 48,
+      "stem": "甲公司與乙政府機關發生履約爭議，甲公司認為乙機關應追加預算，乙機關拒絕，請問甲公司不得採取下列何種救濟管道？",
+      "options": {
+        "A": "調解",
+        "B": "仲裁",
+        "C": "裁決",
+        "D": "訴訟"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 49,
+      "stem": "依憲法增修條文，設大法官幾人？",
+      "options": {
+        "A": "8人",
+        "B": "10人",
+        "C": "13人",
+        "D": "15人"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 50,
+      "stem": "民法第1條規定，如果法律未規定，該如何解決紛爭？",
+      "options": {
+        "A": "法律未規定，先由債務人決定",
+        "B": "法律未規定，先由債權人決定",
+        "C": "先依法理，無法理依習慣",
+        "D": "先依習慣，無習慣依法理"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "year": 111,
+  "category": "人資",
+  "subject": "法學緒論",
+  "questions": [
+    {
+      "questionNumber": 26,
+      "stem": "民國107年12月7日法院組織法修正施行後有關判例之效力，下列敘述何者有誤？",
+      "options": {
+        "A": "前開修法後，判例制度可謂已經成為歷史，不再具有法源地位",
+        "B": "修正施行前依法選編之判例，若無裁判全文可資查考者，應停止適用",
+        "C": "未經停止適用之判例，不再具有通案之效力",
+        "D": "最高法院各庭對於相同事實之法律爭議，與未經停止適用之判例所示法律見解歧異時，應提起憲法訴訟"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 27,
+      "stem": "下列何種請求權，因2年間不行使而消滅？",
+      "options": {
+        "A": "律師所收當事人物件之交還",
+        "B": "每半年給付之利息",
+        "C": "每季給付之贍養費",
+        "D": "每月給付之房屋租金"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 28,
+      "stem": "下列敘述何者為一事不二罰之原則的體現？",
+      "options": {
+        "A": "犯罪行為後法律有變更者，適用行為時之法律",
+        "B": "未戴安全帽之機車騎士超速並違規於紅燈右轉，僅能從一重處罰",
+        "C": "知名商家為漏報銷售額逃稅，故意不開立統一發票，從一重處罰",
+        "D": "同一行為雖經外國確定裁判，仍得依本法處斷，但在外國已受刑之全部或一部執行者，得免其刑之全部或一部之執行"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 29,
+      "stem": "依據國民法官法相關規定，下列何者不得被選任為國民法官？\n①國立大學刑法學教授\n②公立高中正式教師\n③在地方法院管轄區域內繼續居住滿5個月的退休教師\n④剛過完20歲生日的大學生",
+      "options": {
+        "A": "①④",
+        "B": "②③",
+        "C": "③④",
+        "D": "①②"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 30,
+      "stem": "纏訟多年的刑事案件，經三審定讞後，若發現審判違背法令，可由下列何者提起非常上訴，請求撤銷或變更原判決？",
+      "options": {
+        "A": "檢察官",
+        "B": "司法院大法官",
+        "C": "最高法院法官",
+        "D": "最高法院檢察署檢察總長"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 31,
+      "stem": "下列法律行為，何者一定要以書面為之？\n①離婚 ②僱傭契約 ③借貸契約 ④不動產所有權之移轉",
+      "options": {
+        "A": "①②",
+        "B": "②③",
+        "C": "③④",
+        "D": "①④"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 32,
+      "stem": "民法第114條第1項規定「法律行為經撤銷者，視為自始無效。」此種藉由法律規定確定事實的方法為下列何者？",
+      "options": {
+        "A": "擬制",
+        "B": "推定",
+        "C": "創造性補充",
+        "D": "準用"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 33,
+      "stem": "下列何者為從物？",
+      "options": {
+        "A": "土地上興建之未辦保存登記建物",
+        "B": "甫出生脫離母體的小牛",
+        "C": "房屋內設置之昇降電梯",
+        "D": "田裡長出的高麗菜"
+      },
+      "correctOptions": [],
+      "isBonus": true,
+      "explanation": null
+    },
+    {
+      "questionNumber": 34,
+      "stem": "民法上關於消滅時效中斷之規定，下列何者有誤？",
+      "options": {
+        "A": "時效因承認而中斷",
+        "B": "時效因兩造合意停止強制執行而視為不中斷",
+        "C": "時效因告知訴訟而中斷",
+        "D": "時效因撤回調解聲請而視為不中斷"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 35,
+      "stem": "下列何者為消費者保護法規定，定型化契約「應記載事項」得包括的項目？",
+      "options": {
+        "A": "企業經營者保留契約內容之變更權",
+        "B": "預付型交易之履約擔保",
+        "C": "限制企業經營者之義務或責任",
+        "D": "限制消費者行使權利或加重義務"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 36,
+      "stem": "民法上撤銷贈與之規定，下列何者有誤？",
+      "options": {
+        "A": "經公證之贈與，於贈與物之權利未移轉前，贈與人得撤銷其贈與",
+        "B": "故意侵害贈與人之配偶且刑法有處罰之明文者，贈與人得撤銷其贈與",
+        "C": "對於贈與人有扶養義務而不履行，贈與人得撤銷其贈與",
+        "D": "贈與撤銷後，贈與人得依關於不當得利之規定，請求返還贈與物"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 37,
+      "stem": "依勞動基準法規定，勞工遺屬受領職業傷病死亡補償之順位為下列何者？",
+      "options": {
+        "A": "配偶及子女－孫子女－父母－祖父母－兄弟姐妹",
+        "B": "配偶及子女－父母－孫子女－祖父母－兄弟姐妹",
+        "C": "配偶及子女－父母－祖父母－孫子女－兄弟姐妹",
+        "D": "配偶及子女－父母－孫子女－兄弟姐妹－祖父母"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 38,
+      "stem": "依照民法之規定，請求權原則上幾年間不行使而消滅？",
+      "options": {
+        "A": "5年",
+        "B": "10年",
+        "C": "15年",
+        "D": "20年"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 39,
+      "stem": "道路上的雙黃實線，其性質為何？",
+      "options": {
+        "A": "行政指導",
+        "B": "法規命令",
+        "C": "一般處分",
+        "D": "行政規則"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 40,
+      "stem": "下列何者非屬行政處分絕對無效的情形？",
+      "options": {
+        "A": "不能由書面處分中得知處分機關",
+        "B": "須經申請始得作成之行政處分，當事人事後始提出申請",
+        "C": "作成處分之機關未經授權而違背法規有關專屬管轄之規定",
+        "D": "應以證書方式作成而未給予證書"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 41,
+      "stem": "有一位6歲孩童使用父母給的零用錢去書局購買漫畫書，其法律效果為何？",
+      "options": {
+        "A": "有效",
+        "B": "無效",
+        "C": "得撤銷",
+        "D": "效力未定"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 42,
+      "stem": "下列有關證據之說明，何者有誤？",
+      "options": {
+        "A": "證人依法應具結而未具結者，但於後續審判程序中補正具結，其證言仍得作為證據",
+        "B": "除法律另有規定外，實施刑事訴訟程序之公務員因違背法定程序取得之證據，應由法院審酌人權保障及公共利益之均衡維護，以決定可否做為證據",
+        "C": "證據能力係指於人或物中有為證據方法之資格",
+        "D": "文書，依其程式及意旨得認作公文書者，推定為真正，惟得舉反證推翻之"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 43,
+      "stem": "稱人事保證者，謂當事人約定，一方於他方之受僱人將來因職務上之行為而應對他方為損害賠償時，由其代負賠償責任之契約。下列有關人事保證之敘述何者有誤？",
+      "options": {
+        "A": "人事保證契約，應以書面為之",
+        "B": "僅係於債權人不能依其他方法受償時，方由保證人為主債務人代負賠償責任，即具有補充性質",
+        "C": "人事保證約定之期間，不得逾兩年",
+        "D": "人事保證關係因受僱人死亡而消滅"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 44,
+      "stem": "釋字第791號解釋，宣告刑法第239條通姦罪違憲，是因其違反下列何項原則？",
+      "options": {
+        "A": "信賴保護原則",
+        "B": "法律優位原則",
+        "C": "法律保留原則",
+        "D": "比例原則"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 45,
+      "stem": "下列何者非屬民法上之事實行為？",
+      "options": {
+        "A": "無主物的先占",
+        "B": "所有物的拋棄",
+        "C": "埋藏物的發現",
+        "D": "遺失物的拾得"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 46,
+      "stem": "人民可於下列何種情形下聲請解釋憲法？",
+      "options": {
+        "A": "任一審級審理中可隨時聲請",
+        "B": "最高法院審理中有疑義時可聲請",
+        "C": "終局裁判適用的法律有牴觸憲法時可聲請",
+        "D": "人民無法聲請釋憲，僅可由終審法院法官提出"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 47,
+      "stem": "19歲之阿傑領有駕照，於民國111年9月28日開車途中不慎擦撞小美違停在路邊之車輛，試問下列敘述何者正確？\n①阿傑須負擔民事賠償 ②阿傑須負擔刑事責任\n③小美的行為已違反行政法 ④阿傑之父母有可能須負連帶賠償責任",
+      "options": {
+        "A": "①③④",
+        "B": "①②④",
+        "C": "①②③",
+        "D": "②③④"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 48,
+      "stem": "下列何者為實體法？",
+      "options": {
+        "A": "民法總則施行法",
+        "B": "刑法",
+        "C": "少年事件處理法",
+        "D": "訴願法"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 49,
+      "stem": "下列何者非屬中央法規標準法所定法規修正之情形？",
+      "options": {
+        "A": "同一事項規定於二以上之法規，無分別存在之必要者",
+        "B": "規定之主管機關或執行機關已裁併或變更者",
+        "C": "基於政策或事實之需要，有增減內容之必要者",
+        "D": "法規規定之事項已執行完畢，或因情勢變遷，無繼續施行之必要者"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 50,
+      "stem": "依據民法之規定，年齡自出生之日起算，倘若知其出生之月、而不知其出生之日者推定其為該月幾日出生？",
+      "options": {
+        "A": "1日",
+        "B": "10日",
+        "C": "15日",
+        "D": "30日"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "year": 112,
+  "category": "人資",
+  "subject": "法學緒論",
+  "questions": [
+    {
+      "questionNumber": 26,
+      "stem": "物權可分為用益物權與擔保物權，下列何者非屬擔保物權？",
+      "options": {
+        "A": "普通抵押權",
+        "B": "地上權",
+        "C": "留置權",
+        "D": "動產質權"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 27,
+      "stem": "下列何者非屬人民依憲法規定所享有之自由？",
+      "options": {
+        "A": "集會及結社",
+        "B": "信仰宗教",
+        "C": "居住及遷徙",
+        "D": "依法律服兵役"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 28,
+      "stem": "考試院為國家最高考試機關，下列何者非屬憲法規定考試院之職權？",
+      "options": {
+        "A": "考試",
+        "B": "任用",
+        "C": "審計",
+        "D": "銓敘"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 29,
+      "stem": "不動產抵押權乃擔保物權，關於抵押權之敘述，下列何者有誤？",
+      "options": {
+        "A": "不動產抵押權人得占有抵押之不動產",
+        "B": "不動產抵押權之設定，非經登記，不生效力",
+        "C": "法院拍賣抵押物所得之價金，抵押權人得優先於普通債權人受償",
+        "D": "抵押物所有人得讓與抵押物所有權於他人"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 30,
+      "stem": "關於褫奪公權之敘述，下列何者有誤？",
+      "options": {
+        "A": "褫奪公權者，褫奪為公務員之資格",
+        "B": "褫奪公權乃主刑",
+        "C": "褫奪公權者，褫奪為公職候選人之資格",
+        "D": "宣告死刑者，宣告褫奪公權終身"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 31,
+      "stem": "甲贈與乙A鑽戒，甲遲未移轉A鑽戒所有權於乙，下列敘述何者有誤？",
+      "options": {
+        "A": "乙得請求遲延損害賠償",
+        "B": "甲得撤銷A鑽戒之贈與",
+        "C": "乙得請求甲移轉A鑽戒所有權",
+        "D": "甲就A鑽戒不負瑕疵擔保責任"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 32,
+      "stem": "稱合夥者，謂二人以上互約出資以經營共同事業之契約，關於合夥之敘述，下列何者有誤？",
+      "options": {
+        "A": "合夥之決議，應以合夥人全體之同意為之",
+        "B": "合夥財產為合夥人全體之公同共有",
+        "C": "合夥人得自由讓與自己股分於第三人",
+        "D": "合夥債務應先自合夥財產受償"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 33,
+      "stem": "中央法規標準法第6條規定：「應以法律規定之事項，不得以命令定之」，係明示下列何項法律原則？",
+      "options": {
+        "A": "法明確性原則",
+        "B": "法律保留原則",
+        "C": "法安定性原則",
+        "D": "授權明確性原則"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 34,
+      "stem": "承攬人完成之工作物，有不具備約定之品質或不適於通常或約定使用之瑕疵時，下列何者非屬定作人可主張之權利？",
+      "options": {
+        "A": "減少報酬",
+        "B": "修補瑕疵",
+        "C": "終止契約",
+        "D": "損害賠償"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 35,
+      "stem": "甲於3月1日徒手竊取乙皮包內之財物得手，後又於8月1日徒手竊取乙皮包內之財物得手。檢察官對甲3月1日徒手竊取乙皮包內之財物得手之犯行提起公訴，法院不能職權審理甲8月1日徒手竊取乙皮包內財物之犯行，此種審理範圍之限制，屬於下列何項原則之體現？",
+      "options": {
+        "A": "直接審理原則",
+        "B": "不告不理原則",
+        "C": "言詞審理原則",
+        "D": "集中審理原則"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 36,
+      "stem": "如果法律規定欠繳停車費之車主，其全民健康保險將會被暫停效力至繳清停車費為止，此規定可能違反下列何項行政法原則？",
+      "options": {
+        "A": "有利不利一律注意原則",
+        "B": "平等原則",
+        "C": "明確性原則",
+        "D": "不當聯結禁止原則"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 37,
+      "stem": "下列何者不須經公開發行公司股東會同意？",
+      "options": {
+        "A": "公司發行限制權利之新股給員工",
+        "B": "修正公司章程",
+        "C": "股東以對公司之債權繳納股款",
+        "D": "公司減資彌補虧損"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 38,
+      "stem": "勞工在同一雇主或事業單位，繼續工作滿一定期間者，應給予特別休假，關於年資與休假日數之敘述，下列何者有誤？",
+      "options": {
+        "A": "6個月以上1年未滿者，3日",
+        "B": "1年以上2年未滿者，7日",
+        "C": "3年以上5年未滿者，每年15日",
+        "D": "10年以上者，每1年加給1日，加至30日為止"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 39,
+      "stem": "下列何者非屬中央法規標準法所定應廢止法規之情形？",
+      "options": {
+        "A": "機關裁併，有關法規無保留之必要者",
+        "B": "同一事項已定有數法規，並公布或發布施行者",
+        "C": "法規規定之事項已執行完畢，無繼續施行之必要者",
+        "D": "法規因有關法規之修正致失其依據，而無單獨施行之必要者"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 40,
+      "stem": "關於我國行政法制發展之敘述，下列何者有誤？",
+      "options": {
+        "A": "透過大法官會議解釋，法治國原則落實為憲法與行政法的基本原則",
+        "B": "行政機關日漸重視作成行政處分之程序正當與合法性",
+        "C": "行政訴訟增設提供權利救濟之數種訴訟類型",
+        "D": "法規命令逐漸減少，以貫徹法律保留原則"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 41,
+      "stem": "甲向不知情的五金行老闆乙購買生魚片刀一把，後於持該刀行兇殺人時為警查獲，關於乙之刑責，下列何者正確？",
+      "options": {
+        "A": "乙不成立幫助犯",
+        "B": "乙雖不知情，但有幫助事實，仍成立幫助犯",
+        "C": "乙有詢問義務，應成立不作為幫助犯",
+        "D": "乙有容認事情發生之不確定故意，應構成幫助犯或共同正犯"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 42,
+      "stem": "下列何者有母法與子法之關係？",
+      "options": {
+        "A": "民法與民事訴訟法",
+        "B": "消費者保護法與消費者保護法施行細則",
+        "C": "社會秩序維護法與行政罰法",
+        "D": "醫療法與藥事法"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 43,
+      "stem": "我國不少法律規定受西方法影響，如我國的信託法制受英美法影響，這種基於國外法影響所制定的法律規範，屬於下列何種法規範？",
+      "options": {
+        "A": "習慣法",
+        "B": "國際法",
+        "C": "固有法",
+        "D": "繼受法"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 44,
+      "stem": "某直轄市政府想通過一規定，對違反法規者，處以新臺幣5萬元以下之罰鍰，該規定應該以下列何種法規形式加以規定？",
+      "options": {
+        "A": "自治規則",
+        "B": "自律規則",
+        "C": "自治條例",
+        "D": "行政規則"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 45,
+      "stem": "甲去世後留有現金1千萬元的遺產，甲的妻子早於甲去世，死後親屬只留下子女乙、丙及兩位兄弟丁與戊。關於甲死亡後遺產應如何由其親屬繼承之敘述，下列何者正確？",
+      "options": {
+        "A": "因法律規定的遺產繼承順位，應由乙、丙共同繼承甲遺產",
+        "B": "基於法律對尊長的保障，丁、戊應優先於乙、丙繼承甲遺產",
+        "C": "為維護親屬間和諧，依法應由甲之親屬共同繼承甲遺產",
+        "D": "基於傳子不傳女的傳統習俗，應由乙繼承甲的全部遺產"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 46,
+      "stem": "某法官在審理案件時，拒絕採用上級法院判決採取之法律見解，改採學說提出的法律見解進行判決。該法官的做法，符合下列何項法律適用應遵循之原則？",
+      "options": {
+        "A": "審判獨立",
+        "B": "不告不理",
+        "C": "一事不再理",
+        "D": "不得拒絕審判"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 47,
+      "stem": "關於平等原則之敘述，依我國憲法與大法官解釋、憲法法庭裁判之內容，下列何者正確？",
+      "options": {
+        "A": "平等原則係指絕對的形式平等，所以不應推動任何社會福利",
+        "B": "基於平等原則，應該反對我國選舉出現婦女保障名額之規定",
+        "C": "憲法規定由男性服兵役，可得出我國憲法並未要求性別平等",
+        "D": "憲法的平等原則，目的為保障人民在法律上地位之實質平等"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 48,
+      "stem": "關於我國法效力位階之敘述，下列何者有誤？",
+      "options": {
+        "A": "法規命令不得牴觸憲法",
+        "B": "自治規則不得牴觸法律",
+        "C": "法規命令不得牴觸自治條例",
+        "D": "委辦規則不得牴觸中央法令"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 49,
+      "stem": "大法官曾在解釋中指出，當時的公職人員利益迴避法規定之處罰，已逾越必要之程度，從而違憲。依大法官在該解釋中的看法，此一處罰規定係違反下列何項憲法原則而違憲？",
+      "options": {
+        "A": "平等原則",
+        "B": "信賴保護原則",
+        "C": "誠信原則",
+        "D": "比例原則"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 50,
+      "stem": "關於刑事責任之敘述，下列何者有誤？",
+      "options": {
+        "A": "行為非出於故意或過失者，不罰",
+        "B": "14歲以上未滿18歲人之行為，不罰",
+        "C": "依法令之行為，不罰",
+        "D": "業務上之正當行為，不罰"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    }
+  ]
+}

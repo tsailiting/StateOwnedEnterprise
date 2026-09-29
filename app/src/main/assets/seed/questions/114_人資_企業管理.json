@@ -1,0 +1,382 @@
+{
+  "year": 114,
+  "category": "人資",
+  "subject": "企業管理",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "stem": "某公司導入自動化系統，使貨物配送速度明顯加快，然因客戶資料登錄不全，導致貨物經常送錯地點。根據效率與效能的定義，下列何者最符合該公司之情況？",
+      "options": {
+        "A": "高效率高效能",
+        "B": "高效率低效能",
+        "C": "低效率高效能",
+        "D": "低效率低效能"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 2,
+      "stem": "下列何者為目標管理(Management by Objectives)之最大特色？",
+      "options": {
+        "A": "完全由上層主管制定目標",
+        "B": "僅適用於短期計畫",
+        "C": "主要作為績效控制手段",
+        "D": "著重於自我激勵與參與"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 3,
+      "stem": "轉換型領導(Transformational Leadership)相較於交易型領導(Transactional Leadership)，最主要特徵為何？",
+      "options": {
+        "A": "以明確的獎懲制度維持績效",
+        "B": "透過建立工作標準以完成組織的目標",
+        "C": "強調建立願景、激發部屬潛能與承諾",
+        "D": "著重在任務分工與績效考核"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 4,
+      "stem": "有關「理性決策程序」之順序，下列何者正確？",
+      "options": {
+        "A": "蒐集資訊 → 界定問題 → 評估選項 → 擬定方案 → 選擇方案",
+        "B": "界定問題 → 蒐集資訊 → 擬定方案 → 評估選項 → 選擇方案",
+        "C": "擬定方案 → 評估選項 → 界定問題 → 蒐集資訊 → 選擇方案",
+        "D": "評估選項 → 蒐集資訊 → 擬定方案 → 界定問題 → 選擇方案"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 5,
+      "stem": "某公司擔心政府的環保稽查，主動升級污染控制設備，希望降低未來可能的風險，若此行為被視為道德決策，其最可能的道德基礎為何？",
+      "options": {
+        "A": "功利主義",
+        "B": "道德權利",
+        "C": "普世原則",
+        "D": "正義觀點"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 6,
+      "stem": "下列何者非屬向下溝通？",
+      "options": {
+        "A": "主管分配任務",
+        "B": "告知員工工作程序",
+        "C": "指出需要特別注意的問題",
+        "D": "舉辦員工意見調查"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 7,
+      "stem": "若某部門的產出成為另一部門的輸入，這種互賴關係稱為何？",
+      "options": {
+        "A": "聚合互賴",
+        "B": "交互互賴",
+        "C": "雙向互賴",
+        "D": "連續互賴"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 8,
+      "stem": "某主管發現員工對報酬制度不滿，決定調整績效評估方式，根據伏倫(Victor H. Vroom)的期望理論(Expectancy Theory)，此舉最能改善下列何項激勵環節？",
+      "options": {
+        "A": "工具性",
+        "B": "價值性",
+        "C": "預期性",
+        "D": "公平性"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 9,
+      "stem": "某主管在組織中權力有限，部屬對其信任度低，且任務結構不明確、缺乏標準化。根據費德勒的權變領導理論(Fiedler's Contingency Leadership Theory)，應採用哪一種領導風格以達最佳績效？",
+      "options": {
+        "A": "關係導向型",
+        "B": "任務導向型",
+        "C": "支援導向型",
+        "D": "參與導向型"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 10,
+      "stem": "下列何者為列文(Lewin)三階段變革的要素之一？",
+      "options": {
+        "A": "分析",
+        "B": "設計",
+        "C": "評估",
+        "D": "移動"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 11,
+      "stem": "若公司透過組織文化來達成「建立共同價值觀和行為規範，以引導和約束員工的行為」，則表示組織文化發揮了下列何種功能？",
+      "options": {
+        "A": "控制機制(Control Mechanism)",
+        "B": "獎勵制度(Reward System)",
+        "C": "決策架構(Decision Framework)",
+        "D": "激勵理論(Motivation Theory)"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 12,
+      "stem": "古典管理理論(Classical Management Theory)最主要的假設為何？",
+      "options": {
+        "A": "人是理性的經濟人，會被金錢報酬所激勵",
+        "B": "組織應保持適當的彈性，避免明確分工",
+        "C": "員工的人際互動與社交關係，會影響工作表現",
+        "D": "組織策略應根據內外部環境變化來進行調整"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 13,
+      "stem": "若管理者在高度資訊不足與環境不確定情況下，仍需即時判斷與行動，最適合採用下列何種決策模式？",
+      "options": {
+        "A": "理性決策模式(Rational Model)",
+        "B": "有限理性模式(Bounded Rationality Model)",
+        "C": "群體思維模式(Groupthink Model)",
+        "D": "科學決策模式(Scientific Model)"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 14,
+      "stem": "有關學者波特(Michael Porter)與克拉默(Mark Kramer)提出的「共享價值創造(Creating Shared Value, CSV)」理念，與傳統企業社會責任(CSR)觀點的比較，下列何者正確？",
+      "options": {
+        "A": "CSV將社會議題視為企業競爭優勢的來源",
+        "B": "CSV強調法律遵循，而CSR強調公益捐款",
+        "C": "CSR強調企業社會責任可完全取代利潤目標",
+        "D": "CSR重視環境議題，而CSV僅著重於員工福利"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 15,
+      "stem": "學者明茲伯格(Henry Mintzberg)在其研究中，將管理者所扮演的角色，區分為人際性、資訊性、決策性3類共10種角色，下列何者非屬資訊性角色(Informational Roles)？",
+      "options": {
+        "A": "聯絡者(Liaison)",
+        "B": "發言人(Spokesperson)",
+        "C": "監視者(Monitor)",
+        "D": "傳播者(Disseminator)"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 16,
+      "stem": "根據組織設計的權變理論(Contingency Theory)，下列何者最可能影響組織結構的選擇？",
+      "options": {
+        "A": "公司去年的營收與獲利",
+        "B": "組織歷史與文化傳統",
+        "C": "外部環境的不確定性",
+        "D": "競爭對手的結構型態"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 17,
+      "stem": "下列何者為策略性決策(Strategic Decision)與一般營運決策(Operational Decision)主要的差異？",
+      "options": {
+        "A": "策略性決策由基層主管執行，營運決策由高階主管執行",
+        "B": "策略性決策著重短期營運效率，營運決策著重長期方向",
+        "C": "策略性決策須考慮資源與能力累積，營運決策則多為例行性的資源分配",
+        "D": "策略性決策多僅依直覺判斷，營運決策必須依據資料分析"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 18,
+      "stem": "在產業生命週期的成熟期(Maturity Stage)，企業最可能採取下列何種經營策略？",
+      "options": {
+        "A": "聚焦研發創新以建立新市場",
+        "B": "進行成本領導與效率提升，以維持市場地位",
+        "C": "投入大量行銷資源以教育消費者",
+        "D": "分散資金進行高風險新創投資"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 19,
+      "stem": "下列何項管理行動，最符合綠色供應鏈管理(Green Supply Chain Management, GSCM)之精神？",
+      "options": {
+        "A": "建立綠色採購政策，以及供應商行為準則與責任標準等制度",
+        "B": "擴大綠色行銷宣傳，以吸引消費者關注",
+        "C": "委託外部公司協助處理公司廢棄物",
+        "D": "集中採購以降低成本"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 20,
+      "stem": "下列何種狀況發生時，可使組織對資源的依賴性降低？",
+      "options": {
+        "A": "商品有替代品",
+        "B": "物料的供應商很少時",
+        "C": "有問題的商品很稀少",
+        "D": "生產重要的產品"
+      },
+      "correctOptions": [
+        "A"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 21,
+      "stem": "下列何種變革涉及工作流程、方法和設備的改變？",
+      "options": {
+        "A": "結構組成",
+        "B": "科技",
+        "C": "財務",
+        "D": "結構設計"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 22,
+      "stem": "根據組織文化分類架構，正式的控制導向為彈性，而注意的焦點為內部時，此屬於哪一類型的組織文化？",
+      "options": {
+        "A": "科層體制型文化",
+        "B": "宗族型文化",
+        "C": "創業家型文化",
+        "D": "市場型文化"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 23,
+      "stem": "下列何者非屬波特(Michael Porter)所提出之五力分析(Five Forces Analysis)？",
+      "options": {
+        "A": "供應商的談判力量",
+        "B": "替代品的威脅力量",
+        "C": "其他關係人的力量",
+        "D": "潛在進入者的威脅力量"
+      },
+      "correctOptions": [
+        "C"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 24,
+      "stem": "網路平台不受實體空間的限制，透過網路行銷將小眾、冷門商品的市場加總，甚至能與熱門暢銷商品抗衡，也顛覆了傳統 80 / 20 法則，係屬下列何種效應？",
+      "options": {
+        "A": "漣漪效應(Ripple effect)",
+        "B": "霍桑效應(Hawthorne effect)",
+        "C": "網路效應(Network effect)",
+        "D": "長尾效應(The long tail effect)"
+      },
+      "correctOptions": [
+        "D"
+      ],
+      "isBonus": false,
+      "explanation": null
+    },
+    {
+      "questionNumber": 25,
+      "stem": "團體的共識規範凌駕了對備選方案的真實評估，係屬下列何種現象？",
+      "options": {
+        "A": "團體偏移",
+        "B": "團體迷思",
+        "C": "社會賦閒",
+        "D": "認知失調"
+      },
+      "correctOptions": [
+        "B"
+      ],
+      "isBonus": false,
+      "explanation": null
+    }
+  ]
+}
